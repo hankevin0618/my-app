@@ -15,7 +15,7 @@ const Home = () => {
             <h1>To Do</h1> 
             <form onSubmit={onSubmit}>
                 <input type="text" onChange={onChange} />
-                <button>Add</button> 
+                <button>Add2</button> 
             </form>
             <ul></ul>
         </div>
